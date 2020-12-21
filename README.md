@@ -1,5 +1,5 @@
 # parkingLotSystem
-SSM停车场信息管理系统
+SSM停车场信息管理系统（简单好用适合练手）
 
 SSM+bootStrap+jquery-ajax
 
